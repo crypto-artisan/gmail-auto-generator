@@ -88,28 +88,6 @@ To bypass bot-detection, I am all ears to hear from you.
     ![auto-gmail-creator-leostech](./data/images/country-code-leostech.jpg)
     ![auto-gmail-creator-leostech](./data/images/country-table-leostech.jpg)
 
-## Email
-
-tr.soft.engineer@gmail.com
-
-## Telegram
-
-https://t.me/leoshabit
-
-## Discord
-
-leoshabit
-
-## Skype
-
-https://join.skype.com/invite/H6S0RFA69GNK
 
 
-## Github
-
-https://github.com/ai-to-ai
-
-## Phone
-
-+13035365033
 
