@@ -37,7 +37,7 @@ driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()), opti
 ```
 ### Manual or Automatic User info generation
 You edit the 'User.csv' with given type such as First name, Last name, Password, Birthday, Username(optional) from the second line.
-If the 5th parameter on user.csv is not passed by userBot generates username automatically adding FN + dot + LN + random 5 digits.(john.doe12345@gmail.com)
+If the 5th parameter on user.csv is not passed by userBot generates username automatically adding FN + dot + LN + random 5 digits
 Thanks to [BourneXu](https://github.com/BourneXu/AutoCreateGmailAccount), Script generates random popular usernames.
 You can set this variant as "True" to use this functionality to automate generation.
 ```
